@@ -1,0 +1,5 @@
+c:\srclib\cd\ConsoleApplication14\bin\Release\ConsoleApplication14.exe.config
+c:\srclib\cd\ConsoleApplication14\bin\Release\ConsoleApplication14.exe
+c:\srclib\cd\ConsoleApplication14\bin\Release\ConsoleApplication14.pdb
+c:\srclib\cd\ConsoleApplication14\obj\Release\ConsoleApplication14.exe
+c:\srclib\cd\ConsoleApplication14\obj\Release\ConsoleApplication14.pdb
