@@ -10,7 +10,7 @@ namespace ConsoleApplication13
     {
         static void Main(string[] args)
         {
-            string szharish = 1;
+            string szharish = "1";
         }
     }
 }
