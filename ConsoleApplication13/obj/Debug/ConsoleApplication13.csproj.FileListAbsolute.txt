@@ -1,0 +1,2 @@
+c:\srclib\cd\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+c:\srclib\cd\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
